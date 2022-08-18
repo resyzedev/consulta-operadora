@@ -39,7 +39,7 @@ _Below is an example of how you can install and setting up the project._
    ```sh
    git clone https://github.com/unkperson/consulta-operadora.git
    ```
-3. Enter a valid cli arguments
+3. Enter valid cli arguments
    ```sh
    go run main.go -phone 000
    ```
@@ -48,11 +48,11 @@ _Below is an example of how you can install and setting up the project._
 
 ## Roadmap
 
-- [x] Add Command Line Application
-- [x] Add Version
-- [x] Add Phone
-- [x] Add Funcs
-- [x] Add README.md
+- [x] CLI
+- [x] version
+- [x] phone
+- [x] funcs
+- [x] README.md
 
 See the [open issues](https://github.com/unkperson/consulta-operadora/issues) for a full list of proposed features (and known issues).
 
