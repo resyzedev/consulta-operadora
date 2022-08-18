@@ -1,8 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -16,11 +11,7 @@
     📞: consult the operator of a telephone in Brazil 🇧🇷
     <br />
     <br />
-    <a href="https://github.com/unkperson/consulta-operadora">View Demo</a>
-    ·
-    <a href="https://github.com/unkperson/consulta-operadora/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/unkperson/consulta-operadora/issues">Request Feature</a>
+    <a href="https://github.com/unkperson/consulta-operadora/issues">issues</a>
   </p>
 </div>
 
@@ -73,14 +64,3 @@ Contributions are what make the open source community such an amazing place to l
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
-
-<!-- MARKDOWN LINKS & IMAGES -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/unkperson/consulta-operadora/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/unkperson/consulta-operadora/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/unkperson/consulta-operadora/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/unkperson/consulta-operadora/issues
